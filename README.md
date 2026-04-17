@@ -33,4 +33,6 @@ This project helped me strengthen my skills in:
 ✔ Customer behavior insights
 
 ## Screenshots / Demos
-Dashboard Looks like: https://github.com/Sreekart/Sri-Fashions-Dashboard/blob/main/Sri%20Fashions%20Analysis.png
+The dashboard looks like:
+Example: ![Dashboard Preview](https://github.com/Sreekart/Sri-Fashions-Dashboard/blob/main/Sri%20Fashions%20Analysis.png)
+
